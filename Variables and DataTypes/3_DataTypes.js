@@ -42,7 +42,8 @@ console.log("BigInt:", bigIntNum);
 console.log("Type of bigIntNum:", typeof bigIntNum);
 console.log("-----------------------\n");
 
-// Summary table of all data types
+
+// Summary Table
 console.table({
     Number: typeof num,
     String: typeof str,

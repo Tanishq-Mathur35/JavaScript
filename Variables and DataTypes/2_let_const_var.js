@@ -10,3 +10,4 @@ accountBalance += 500; // This is allowed
 // accountName = "New Account Name"; // This will throw an error
 accountPassword = "newpassword456"; // This is allowed
 
+console.table({ accountName, accountBalance, accountPassword, accountId });
