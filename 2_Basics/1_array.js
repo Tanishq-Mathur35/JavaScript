@@ -42,7 +42,6 @@ console.log(typeof newArr);
 
 
 // Slice , Splice
-
 const sliceArr = myArray2.slice(1, 4);
 console.log("Sliced Array (1,4):", sliceArr);
 
